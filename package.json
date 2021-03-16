@@ -1,7 +1,7 @@
 {
   "name": "node-mobile-api-gh",
   "version": "1.0.0",
-  "description": "",
+  "description": "mobile api",
   "main": "index.js",
   "engines": {
     "node": "v14.16.0"
