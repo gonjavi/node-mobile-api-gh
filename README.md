@@ -1,4 +1,4 @@
-# Node-Mobile-API-gh
+# Node-Mobile-API-GH
 
 This is a public API that allows crud actions for mobile phones. The propject was built with Node.js and deployed on Heroku.
 
