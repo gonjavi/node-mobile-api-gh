@@ -23,6 +23,6 @@
   "homepage": "https://github.com/gonjavi/node-mobile-api-gh#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongooses": "^1.0.0"
+    "mongoose": "^5.12.0"
   }
 }
